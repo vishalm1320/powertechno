@@ -1,0 +1,107 @@
+h1{
+    margin: 10px auto;
+    width: 420px;
+    color: hsl(234, 12%, 34%);
+}
+body{
+  margin: 0;
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+}
+
+.center{
+  text-align: center;
+}
+
+.description{
+  margin-top: 40px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #537791;
+  color: white;
+  text-align: center;
+}
+
+.topcontainer{
+  margin-bottom: 60px;
+
+}
+
+.boxr{
+    color: hsl(0, 78%, 62%);
+    bottom: 250px;
+    left: 550px;
+
+}
+
+.tophead{
+  color: hsl(229, 6%, 66%);
+  font-weight: 100;
+}
+
+.middlecontainer{
+  height: 670px;
+  position: relative;
+}
+
+.middlecontainer p{
+  width: 240px;
+  font-size: 12px;
+  color: hsl(229, 6%, 66%);
+}
+
+.middlecontainer div{
+  width: 280px;
+  height: 200px;
+  background-color: white;
+  border-radius: 5%;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  margin: 20px;
+  border-top: solid 5px;
+  box-shadow: 5px 8px 5px #888888;
+  position: relative;
+}
+
+
+.boxc{
+    color: hsl(180, 62%, 55%);
+    top: 150px;
+    left: 180px;
+}
+
+.boxo{
+  color: hsl(34, 97%, 64%);
+  bottom: 240px;
+  left: 550px;
+}
+
+.boxb{
+  color: hsl(212, 86%, 64%);
+  bottom: 675px;
+  left: 920px;
+}
+
+.middlecontainer img{
+  right: 40px;
+  top: 160px;
+  position: absolute;
+}
+
+.middlecontainer h3{
+  color: hsl(234, 12%, 34%);
+}
+
+.heading{
+  margin-top: 60px;
+  line-height: 1;
+}
